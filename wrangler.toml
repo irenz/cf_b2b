@@ -1,0 +1,13 @@
+name = "cf-b2b-website"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# D1 Database binding
+[[d1_databases]]
+binding = "DB"
+database_name = "b2b_database"
+database_id = "8755429a-7eb4-4dac-8aa4-55e4b58b2f63"
+
+# Environment variables
+[vars]
+ENVIRONMENT = "development"
