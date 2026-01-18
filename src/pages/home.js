@@ -47,7 +47,7 @@ export async function homePage(env) {
     <!-- Company Introduction -->
     <section class="container" style="margin-top: 3rem;">
       <div style="text-align: center; max-width: 800px; margin: 0 auto;">
-        <h2 style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary-color);">About Our Company</h2>
+        <h2 style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary-color);">About Our</h2>
         <p id="company-intro" style="color: var(--text-light); font-size: 1.1rem; line-height: 1.8;">
           We are a leading manufacturer and supplier of high-quality industrial products.
           With over 20 years of experience, we serve clients across the globe with innovative
