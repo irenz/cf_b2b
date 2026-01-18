@@ -75,7 +75,7 @@ export async function productDetailPage(request, env) {
           </div>
 
           <div style="display: flex; gap: 1rem;">
-            <button type="submit" class="btn btn-primary">Consult&Buy</button>
+            <button type="submit" class="btn btn-primary">Consult & Buy</button>
             <button type="button" id="cancel-inquiry" class="btn" style="background: #6b7280; color: white;">Cancel</button>
           </div>
         </form>
@@ -144,7 +144,7 @@ export async function productDetailPage(request, env) {
                 </p>
 
                 <button id="send-inquiry-btn" class="btn btn-primary" style="font-size: 1.1rem; padding: 1rem 2rem;">
-                  Consult&Buy
+                  Consult & Buy
                 </button>
               </div>
             </div>
