@@ -22,7 +22,7 @@ export async function aboutPage(env) {
     <!-- Page Header -->
     <section class="hero" style="padding: 3rem 2rem;">
       <div class="container">
-        <h1>About Our Company</h1>
+        <h1>About Our</h1>
         <p>Learn more about our journey, values, and commitment to excellence</p>
       </div>
     </section>
