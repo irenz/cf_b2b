@@ -33,8 +33,8 @@ export async function aboutPage(env) {
         <div>
           <h2 style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary-color);">Who We Are</h2>
           <p style="color: var(--text-light); line-height: 1.8; margin-bottom: 1rem;">
-            Founded in 2000, our company has grown to become a leading provider of high-quality
-            industrial products and solutions. With over two decades of experience, we serve
+            Founded in 2012, our company has grown to become a leading provider of high-quality
+            industrial products and solutions. With over decades of experience, we serve
             clients across 50+ countries worldwide.
           </p>
           <p style="color: var(--text-light); line-height: 1.8; margin-bottom: 1rem;">
@@ -52,7 +52,7 @@ export async function aboutPage(env) {
             <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Quick Facts</h3>
             <ul style="list-style: none;">
               <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--border-color);">
-                <strong>Founded:</strong> 2000
+                <strong>Founded:</strong> 2012
               </li>
               <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--border-color);">
                 <strong>Employees:</strong> 500+
@@ -126,22 +126,22 @@ export async function aboutPage(env) {
         <div style="border-left: 3px solid var(--primary-color); padding-left: 2rem;">
           <div style="margin-bottom: 2rem; position: relative;">
             <div style="position: absolute; left: -2.5rem; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--primary-color);"></div>
-            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2000 - Foundation</h3>
+            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2012 - Foundation</h3>
             <p style="color: var(--text-light);">Company established with a vision to provide quality industrial products.</p>
           </div>
           <div style="margin-bottom: 2rem; position: relative;">
             <div style="position: absolute; left: -2.5rem; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--primary-color);"></div>
-            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2005 - International Expansion</h3>
+            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2015 - International Expansion</h3>
             <p style="color: var(--text-light);">Began exporting products to international markets.</p>
           </div>
           <div style="margin-bottom: 2rem; position: relative;">
             <div style="position: absolute; left: -2.5rem; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--primary-color);"></div>
-            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2010 - ISO Certification</h3>
+            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2019 - ISO Certification</h3>
             <p style="color: var(--text-light);">Achieved ISO 9001 certification for quality management.</p>
           </div>
           <div style="margin-bottom: 2rem; position: relative;">
             <div style="position: absolute; left: -2.5rem; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--primary-color);"></div>
-            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2015 - Innovation Center</h3>
+            <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">2022 - Innovation Center</h3>
             <p style="color: var(--text-light);">Opened state-of-the-art research and development center.</p>
           </div>
           <div style="position: relative;">
