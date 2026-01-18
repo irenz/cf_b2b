@@ -1,4 +1,4 @@
-name = "cf-b2b-website"
+name = "b2b"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
