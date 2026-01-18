@@ -37,7 +37,7 @@ export async function productDetailPage(request, env) {
     <div id="inquiry-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9999; padding: 2rem;">
       <div style="max-width: 600px; margin: 2rem auto; background: white; border-radius: 0.5rem; padding: 2rem; max-height: 90vh; overflow-y: auto;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
-          <h2 style="color: var(--primary-color);">Send Inquiry</h2>
+          <h2 style="color: var(--primary-color);"></h2>
           <button id="close-modal" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--text-light);">&times;</button>
         </div>
 
@@ -75,7 +75,7 @@ export async function productDetailPage(request, env) {
           </div>
 
           <div style="display: flex; gap: 1rem;">
-            <button type="submit" class="btn btn-primary">Send Inquiry</button>
+            <button type="submit" class="btn btn-primary">Buy</button>
             <button type="button" id="cancel-inquiry" class="btn" style="background: #6b7280; color: white;">Cancel</button>
           </div>
         </form>
