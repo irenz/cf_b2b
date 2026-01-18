@@ -55,7 +55,7 @@ export async function productDetailPage(request, env) {
           </div>
 
           <div class="form-group">
-            <label class="form-label">Company</label>
+            <label class="form-label">Quantity</label>
             <input type="text" id="inquiry-company" class="form-input">
           </div>
 
@@ -144,7 +144,7 @@ export async function productDetailPage(request, env) {
                 </p>
 
                 <button id="send-inquiry-btn" class="btn btn-primary" style="font-size: 1.1rem; padding: 1rem 2rem;">
-                  Send Inquiry
+                  Buy
                 </button>
               </div>
             </div>
